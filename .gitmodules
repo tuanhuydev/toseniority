@@ -1,0 +1,3 @@
+[submodule "node-simple"]
+	path = node-simple
+	url = https://github.com/tuanhuydev/node-simple.git
